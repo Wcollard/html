@@ -1,0 +1,19 @@
+
+.leftsidenav {
+    width: 15%;
+    float: left;
+    background-color: rgb(164, 169, 245);
+    min-height: 170%;
+}
+
+.body {
+    width: 70%;
+    float: left;
+}
+
+.rightsidenav {
+    width: 15%;
+    float: right;
+    background-color: rgb(185, 193, 240);
+    min-height: 170%;
+}
